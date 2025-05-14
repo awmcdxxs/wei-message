@@ -4,3 +4,9 @@
     还有欢迎大家来修改代码，这个代码还有很多缺陷，我也懒得改了，所以这段代码就留给你们来改吧(666，盐豆不盐了)
     B站账号癌玩mc的小学生
     我因为是第一次发github仓库还有很多不足，比如说开源协议怎么选之类的，我就在网上找一个比较宽松的MIT协议，如果有更多选择，我会再开一个另一个仓库，随后这个仓库就不再更新。
+我的网站:
+网页版mc awmcraft.off.sd
+小容量网盘 awmcraft.off.sd/pan
+此项目预览 awmcraft.off.sd/massage
+注意⚠:项目预览的用户查询网址为awmcraft.off.sd/massage/test.php
+退出登陆为./massage/logout.php
